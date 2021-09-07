@@ -1,2 +1,2 @@
 # SnakeGame
-Game of snake
+Game of snake using java swing.🐍🍎
